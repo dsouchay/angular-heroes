@@ -19,7 +19,7 @@ const routes = [
       },
       {
         path: '**',
-        redirectTo: 'loguin',
+        redirectTo: 'login',
       },
     ],
   },
